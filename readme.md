@@ -8,7 +8,7 @@ TryHackMe
 - [ ] Intro to Researching https://tryhackme.com/room/introtoresearch
 - [ ] Learn Linux https://tryhackme.com/room/zthlinux
 - [ ] Crash Course Pentesting https://tryhackme.com/room/ccpentesting
-
+https://github.com/jm-73/cybersecurity/blob/main/Pre%20Security%20Learning%20Path.png
 **Introductory CTFs to get your feet wet**
 
 - [ ] Google Dorking https://tryhackme.com/room/googledorking
