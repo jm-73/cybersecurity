@@ -1,6 +1,7 @@
 TryHackMe
 
 # Level 1 - Intro
+- [X] Pre Security https://tryhackme.com/path/outline/presecurity
 - [ ] OpenVPN https://tryhackme.com/room/openvpn
 - [ ] Welcome https://tryhackme.com/jr/welcome
 - [ ] Intro to Researching https://tryhackme.com/room/introtoresearch
