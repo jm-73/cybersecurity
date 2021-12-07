@@ -2,13 +2,20 @@ TryHackMe
 
 # Level 1 - Intro
 - [X] Pre Security https://tryhackme.com/path/outline/presecurity
-- ![Alt text](Pre Security Learning Path.png?raw=true "Title")
+https://github.com/jm-73/cybersecurity/blob/main/Pre%20Security%20Learning%20Path.png
+
+[[/Pre%20Security%20Learning%20Path.png|ALT TEXT]]
+
+
+[a relative link](Pre%20Security%20Learning%20Path.png)
+
+
 - [ ] OpenVPN https://tryhackme.com/room/openvpn
 - [ ] Welcome https://tryhackme.com/jr/welcome
 - [ ] Intro to Researching https://tryhackme.com/room/introtoresearch
 - [ ] Learn Linux https://tryhackme.com/room/zthlinux
 - [ ] Crash Course Pentesting https://tryhackme.com/room/ccpentesting
-https://github.com/jm-73/cybersecurity/blob/main/Pre%20Security%20Learning%20Path.png
+
 **Introductory CTFs to get your feet wet**
 
 - [ ] Google Dorking https://tryhackme.com/room/googledorking
