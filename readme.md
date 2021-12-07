@@ -1,15 +1,7 @@
 TryHackMe
 
 # Level 1 - Intro
-- [X] Pre Security https://tryhackme.com/path/outline/presecurity
-https://github.com/jm-73/cybersecurity/blob/main/Pre%20Security%20Learning%20Path.png
-
-[[/Pre%20Security%20Learning%20Path.png|ALT TEXT]]
-
-
-[a relative link](Pre%20Security%20Learning%20Path.png)
-
-
+- [X] Pre Security https://tryhackme.com/path/outline/presecurity Certificate](Pre_Security.png)
 - [ ] OpenVPN https://tryhackme.com/room/openvpn
 - [ ] Welcome https://tryhackme.com/jr/welcome
 - [ ] Intro to Researching https://tryhackme.com/room/introtoresearch
