@@ -4,10 +4,8 @@ TryHackMe
 - [X] OpenVPN https://tryhackme.com/room/openvpn
 - [X] Welcome https://tryhackme.com/jr/welcome
 - [X] Intro to Researching https://tryhackme.com/room/introtoresearch
-- [ ] Learn Linux https://tryhackme.com/room/zthlinux
-- [ ] Crash Course Pentesting https://tryhackme.com/room/ccpentesting
-
 - [X] Pre Security https://tryhackme.com/path/outline/presecurity ---> [Certificate](Pre_Security.png)
+- [ ] Crash Course Pentesting https://tryhackme.com/room/ccpentesting
 
 **Introductory CTFs to get your feet wet**
 
