@@ -89,3 +89,6 @@ TryHackMe
 - [ ] Blue Print https://tryhackme.com/room/blueprint
 - [ ] Anthem https://tryhackme.com/room/anthem
 - [ ] Relevant https://tryhackme.com/room/relevant
+
+# Other
+- [ ] Adventure of Cyber 3 https://tryhackme.com/room/adventofcyber3
