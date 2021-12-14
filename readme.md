@@ -1,7 +1,8 @@
 TryHackMe
 
 https://tryhackme.com/p/Sweboss73
-<script src="https://tryhackme.com/badge/778864"></script>
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/Sweboss73.png" alt="TryHackMe">
 
 
 
