@@ -3,7 +3,29 @@ https://app.hackthebox.com/profile/853773
 
 ## Machines
 - [X] Jerry https://app.hackthebox.com/machines/Jerry
+- [ ] Blue
+- [ ] Sunday
+- [ ] Lame
+- [ ] Irked
+- [ ] Curling
+- [ ] Arctic
+- [ ] Access
+- [ ] Active
+- [ ] Granny
+- [ ] Grandpa
+- [ ] Bastion (still accessible from the free labs right now)
+- [ ] Bounty
+- [ ] Nibbles
+- [ ] Netmon
+- [ ] Help
 
+And the currently active ones:
+
+- [ ] Heist
+- [ ] Writeup
+- [ ] Networked
+- [ ] Luke
+- [ ] Swagshop
 
 # Try Hack Me
 
