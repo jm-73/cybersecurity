@@ -1,3 +1,5 @@
+https://github.com/chryzsh/practical-hacking
+
 # Hack The Box
 https://app.hackthebox.com/profile/853773
 
@@ -18,6 +20,8 @@ https://app.hackthebox.com/profile/853773
 - [ ] Nibbles
 - [ ] Netmon
 - [ ] Help
+- [ ] Valentie
+- [ ] Chaos
 
 And the currently active ones:
 
