@@ -71,6 +71,7 @@ Web Hacking Fundamentals
 - [ ] OWASP Juice Shop https://tryhackme.com/room/owaspjuiceshop
 - [ ] Upload Vulnerabilities https://tryhackme.com/room/uploadvulns
 - [ ] Pickle Rick https://tryhackme.com/room/picklerick
+
 Cryptography
 
 Windows Exploration Basics
