@@ -47,11 +47,21 @@ https://tryhackme.com/p/Sweboss73
 - [X] Intro to Researching https://tryhackme.com/room/introtoresearch
 - [X] Pre Security https://tryhackme.com/path/outline/presecurity ---> [Certificate](Pre_Security.png)
 - [ ] Crash Course Pentesting https://tryhackme.com/room/ccpentesting
+- [X] Intro Networking https://tryhackme.com/room/introtonetworking
+- [X] Network Services https://tryhackme.com/room/networkservices
+- [X] Web fundamentals https://tryhackme.com/room/webfundamentals
+- [X] NMAP https://tryhackme.com/room/furthernmap
+- [X] Linux Fundamentals https://tryhackme.com/room/linuxfundamentalspart1
+- [X] DNS in detail https://tryhackme.com/room/dnsindetail
+- [X] Windows Fundamentals https://tryhackme.com/room/windowsfundamentals1xbx
+- [X] OSI Model https://tryhackme.com/room/osimodelzi
+- [X] HTTP in detail https://tryhackme.com/room/httpindetail
+- [X] PAcket and frames https://tryhackme.com/room/packetsframes
 
 **Introductory CTFs to get your feet wet**
 
 - [X] Google Dorking https://tryhackme.com/room/googledorking
-- [ ] OHsint https://tryhackme.com/room/ohsint
+- [X] OHsint https://tryhackme.com/room/ohsint
 - [ ] Shodan.io https://tryhackme.com/room/shodan
 
 ## Level 2 - Tooling
@@ -62,6 +72,7 @@ https://tryhackme.com/p/Sweboss73
 - [ ] Hydra https://tryhackme.com/room/hydra
 - [ ] Linux Privesc https://tryhackme.com/room/linuxprivesc
 - [ ] Web Scanning https://tryhackme.com/room/rpwebscanning
+- [X] Burpsuite https://tryhackme.com/room/rpburpsuite
 
 **More introductory CTFs**
 - [ ] Vulnversity - https://tryhackme.com/room/vulnversity
