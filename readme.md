@@ -3,9 +3,20 @@ https://github.com/chryzsh/practical-hacking
 # Hack The Box
 https://app.hackthebox.com/profile/853773
 
+## Beginner Track https://app.hackthebox.com/tracks/Beginner-Track
+- [ ] Lame https://app.hackthebox.com/machines/1
+- [ ] Find the Easy path https://app.hackthebox.com/challenges/5
+- [ ] Weak RSA https://app.hackthebox.com/challenges/6
+- [ ] Jerry https://app.hackthebox.com/machines/144
+- [ ] You know 0xDiablos https://app.hackthebox.com/challenges/106
+- [ ] Netmon https://app.hackthebox.com/machines/177
+- [ ] Under construction https://app.hackthebox.com/challenges/111
+- [ ] Blue https://app.hackthebox.com/machines/51
+- [ ] Little Tommy https://app.hackthebox.com/challenges/35
+- [ ] Ropme https://app.hackthebox.com/challenges/8
+
 ## Machines
 - [X] Previse https://www.hackthebox.com/achievement/machine/853773/373
-- [ ] Jerry https://app.hackthebox.com/machines/Jerry
 - [ ] Blue
 - [ ] Sunday
 - [ ] Lame
