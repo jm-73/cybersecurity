@@ -92,6 +92,7 @@ Basic computer Exploitation
 - [X] OSI Model https://tryhackme.com/room/osimodelzi
 - [X] HTTP in detail https://tryhackme.com/room/httpindetail
 - [X] Packet and frames https://tryhackme.com/room/packetsframes
+- [ ] Cross Site Scripting https://tryhackme.com/room/xss
 
 **Introductory CTFs to get your feet wet**
 
