@@ -1,53 +1,8 @@
-https://github.com/chryzsh/practical-hacking
+<img src="https://assets.tryhackme.com/img/favicon.png" width="100"/>
 
-# Hack The Box
-https://app.hackthebox.com/profile/853773
-
-## Beginner Track https://app.hackthebox.com/tracks/Beginner-Track
-- [ ] Lame https://app.hackthebox.com/machines/1
-- [ ] Find the Easy path https://app.hackthebox.com/challenges/5
-- [ ] Weak RSA https://app.hackthebox.com/challenges/6
-- [ ] Jerry https://app.hackthebox.com/machines/144
-- [ ] You know 0xDiablos https://app.hackthebox.com/challenges/106
-- [ ] Netmon https://app.hackthebox.com/machines/177
-- [ ] Under construction https://app.hackthebox.com/challenges/111
-- [ ] Blue https://app.hackthebox.com/machines/51
-- [ ] Little Tommy https://app.hackthebox.com/challenges/35
-- [ ] Ropme https://app.hackthebox.com/challenges/8
-
-## Machines
-- [X] Previse https://www.hackthebox.com/achievement/machine/853773/373
-- [ ] Blue
-- [ ] Sunday
-- [ ] Lame
-- [ ] Irked
-- [ ] Curling
-- [ ] Arctic
-- [ ] Access
-- [ ] Active
-- [ ] Granny
-- [ ] Grandpa
-- [ ] Bastion (still accessible from the free labs right now)
-- [ ] Bounty
-- [ ] Nibbles
-- [ ] Netmon
-- [ ] Help
-- [ ] Valentie
-- [ ] Chaos
-
-And the currently active ones:
-
-- [ ] Heist
-- [ ] Writeup
-- [ ] Networked
-- [ ] Luke
-- [ ] Swagshop
-
-# Try Hack Me
+# Try Hack Me 
 
 https://tryhackme.com/p/Sweboss73
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/Sweboss73.png" alt="TryHackMe">
 
 ## Complete Biginner Path https://tryhackme.com/path-action/beginner/join
 Complete Beginner introduction
@@ -85,7 +40,6 @@ Basic computer Exploitation
 - [X] Welcome https://tryhackme.com/jr/welcome
 - [X] Intro to Researching https://tryhackme.com/room/introtoresearch
 - [X] Pre Security https://tryhackme.com/path/outline/presecurity ---> [Certificate](Pre_Security.png)
-- [ ] Crash Course Pentesting https://tryhackme.com/room/ccpentesting
 
 - [X] DNS in detail https://tryhackme.com/room/dnsindetail
 - [X] Windows Fundamentals https://tryhackme.com/room/windowsfundamentals1xbx
@@ -93,6 +47,9 @@ Basic computer Exploitation
 - [X] HTTP in detail https://tryhackme.com/room/httpindetail
 - [X] Packet and frames https://tryhackme.com/room/packetsframes
 - [ ] Cross Site Scripting https://tryhackme.com/room/xss
+- [ ] Yara https://tryhackme.com/room/yara
+
+- [ ] Crash Course Pentesting https://tryhackme.com/room/ccpentesting
 
 **Introductory CTFs to get your feet wet**
 
@@ -179,3 +136,51 @@ Basic computer Exploitation
 
 ## Other
 - [ ] Adventure of Cyber 3 https://tryhackme.com/room/adventofcyber3
+
+# Hack The Box
+https://app.hackthebox.com/profile/853773
+
+## Beginner Track https://app.hackthebox.com/tracks/Beginner-Track
+- [ ] Lame https://app.hackthebox.com/machines/1
+- [ ] Find the Easy path https://app.hackthebox.com/challenges/5
+- [ ] Weak RSA https://app.hackthebox.com/challenges/6
+- [ ] Jerry https://app.hackthebox.com/machines/144
+- [ ] You know 0xDiablos https://app.hackthebox.com/challenges/106
+- [ ] Netmon https://app.hackthebox.com/machines/177
+- [ ] Under construction https://app.hackthebox.com/challenges/111
+- [ ] Blue https://app.hackthebox.com/machines/51
+- [ ] Little Tommy https://app.hackthebox.com/challenges/35
+- [ ] Ropme https://app.hackthebox.com/challenges/8
+
+## Machines
+- [X] Previse https://www.hackthebox.com/achievement/machine/853773/373
+- [ ] Blue
+- [ ] Sunday
+- [ ] Lame
+- [ ] Irked
+- [ ] Curling
+- [ ] Arctic
+- [ ] Access
+- [ ] Active
+- [ ] Granny
+- [ ] Grandpa
+- [ ] Bastion (still accessible from the free labs right now)
+- [ ] Bounty
+- [ ] Nibbles
+- [ ] Netmon
+- [ ] Help
+- [ ] Valentie
+- [ ] Chaos
+
+And the currently active ones:
+
+- [ ] Heist
+- [ ] Writeup
+- [ ] Networked
+- [ ] Luke
+- [ ] Swagshop
+
+
+Other resources
+
+https://github.com/chryzsh/practical-hacking
