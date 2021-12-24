@@ -154,7 +154,7 @@ Basic computer Exploitation
 - [ ] Adventure of Cyber 3 https://tryhackme.com/room/adventofcyber3
 
 
-<img src="https://www.hackthebox.com/images/landingv3/OG_B2C_Homepage.jpg" width="100" width="200"/>
+<img src="https://www.hackthebox.com/images/landingv3/OG_Generic.jpg" width="400"/>
 
 # Hack The Box
 
