@@ -55,7 +55,7 @@ Basic computer Exploitation
 
 - [X] Google Dorking https://tryhackme.com/room/googledorking
 - [X] OHsint https://tryhackme.com/room/ohsint
-- [ ] Shodan.io https://tryhackme.com/room/shodan
+- [X] Shodan.io https://tryhackme.com/room/shodan
 
 ## Level 2 - Tooling
 - [ ] Tmux https://tryhackme.com/room/rptmux
