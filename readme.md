@@ -28,12 +28,28 @@ Web Hacking Fundamentals
 - [ ] Pickle Rick https://tryhackme.com/room/picklerick
 
 Cryptography
+- [ ] Hashing - Crypto 101 https://tryhackme.com/room/hashingcrypto101
+- [ ] John The Ripper https://tryhackme.com/room/johntheripper0
+- [ ] Encryption - Crypto 101 https://tryhackme.com/room/encryptioncrypto101
 
 Windows Exploration Basics
+- [X] Windows Fundamentals 1 https://tryhackme.com/room/windowsfundamentals1xbx
+- [X] Windows Fundamentals 2 https://tryhackme.com/room/windowsfundamentals2x0x
+- [ ] Intro to Windows https://tryhackme.com/room/intro2windows
+- [ ] Active Dricetory Basics https://tryhackme.com/room/activedirectorybasics
+- [ ] Metasploit https://tryhackme.com/room/rpmetasploit
+- [ ] Blue https://tryhackme.com/room/blue
 
 Shells and privilege escalation
+- [ ] What the Shell? https://tryhackme.com/room/introtoshells
+- [ ] Common Linux Privesc https://tryhackme.com/room/commonlinuxprivesc
+- [ ] Linux PrivEsc https://tryhackme.com/room/linuxprivesc
 
 Basic computer Exploitation
+- [ ] Vulnersity https://tryhackme.com/room/vulnversity
+- [ ] Basic Pentesting https://tryhackme.com/room/basicpentestingjt
+- [ ] Kenobi https://tryhackme.com/room/kenobi
+- [ ] Steel Mountain https://tryhackme.com/room/steelmountain
 
 ## Level 1 - Intro 
 - [X] OpenVPN https://tryhackme.com/room/openvpn
