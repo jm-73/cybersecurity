@@ -22,7 +22,7 @@ Web Hacking Fundamentals
 - [X] How websites work https://tryhackme.com/room/howwebsiteswork
 - [X] Web fundamentals https://tryhackme.com/room/webfundamentals
 - [X] Burpsuite https://tryhackme.com/room/rpburpsuite
-- [ ] OWASP Top 10 https://tryhackme.com/room/owasptop10
+- [X] OWASP Top 10 https://tryhackme.com/room/owasptop10
 - [ ] OWASP Juice Shop https://tryhackme.com/room/owaspjuiceshop
 - [ ] Upload Vulnerabilities https://tryhackme.com/room/uploadvulns
 - [ ] Pickle Rick https://tryhackme.com/room/picklerick
