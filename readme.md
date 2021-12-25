@@ -10,18 +10,18 @@ Complete Beginner introduction
 - [X] Starting Out in Cyber Sec https://tryhackme.com/room/startingoutincybersec
 - [X] Introductory Reseraching https://tryhackme.com/room/introtoresearch
 
-# Linux Fundamentals
+### Linux Fundamentals
 - [X] Linux Fundamentals part 1 https://tryhackme.com/room/linuxfundamentalspart1
 - [X] Linux Fundamentals part 2 https://tryhackme.com/room/linuxfundamentalspart2
 - [X] Linux Fundamentals part 3 https://tryhackme.com/room/linuxfundamentalspart3
 
-# Network Exploitation Basics
+### Network Exploitation Basics
 - [X] Introductory Networking https://tryhackme.com/room/introtonetworking
 - [X] NMAP https://tryhackme.com/room/furthernmap
 - [X] Network Services https://tryhackme.com/room/networkservices
 - [X] Network Services 2 https://tryhackme.com/room/networkservices2
 
-# Web Hacking Fundamentals
+### Web Hacking Fundamentals
 - [X] How websites work https://tryhackme.com/room/howwebsiteswork
 - [X] Web fundamentals https://tryhackme.com/room/webfundamentals
 - [X] Burpsuite https://tryhackme.com/room/rpburpsuite
@@ -30,12 +30,12 @@ Complete Beginner introduction
 - [ ] Upload Vulnerabilities https://tryhackme.com/room/uploadvulns
 - [ ] Pickle Rick https://tryhackme.com/room/picklerick
  
-# Cryptography
+### Cryptography
 - [ ] Hashing - Crypto 101 https://tryhackme.com/room/hashingcrypto101
 - [ ] John The Ripper https://tryhackme.com/room/johntheripper0
 - [ ] Encryption - Crypto 101 https://tryhackme.com/room/encryptioncrypto101
 
-# Windows Exploration Basics
+### Windows Exploration Basics
 - [X] Windows Fundamentals 1 https://tryhackme.com/room/windowsfundamentals1xbx
 - [X] Windows Fundamentals 2 https://tryhackme.com/room/windowsfundamentals2x0x
 - [ ] Intro to Windows https://tryhackme.com/room/intro2windows
@@ -43,23 +43,23 @@ Complete Beginner introduction
 - [ ] Metasploit https://tryhackme.com/room/rpmetasploit
 - [ ] Blue https://tryhackme.com/room/blue
 
-# Shells and privilege escalation
+### Shells and privilege escalation
 - [ ] What the Shell? https://tryhackme.com/room/introtoshells
 - [ ] Common Linux Privesc https://tryhackme.com/room/commonlinuxprivesc
 - [ ] Linux PrivEsc https://tryhackme.com/room/linuxprivesc
 
-# Basic computer Exploitation
+### Basic computer Exploitation
 - [ ] Vulnersity https://tryhackme.com/room/vulnversity
 - [ ] Basic Pentesting https://tryhackme.com/room/basicpentestingjt
 - [ ] Kenobi https://tryhackme.com/room/kenobi
 - [ ] Steel Mountain https://tryhackme.com/room/steelmountain
 
 
-# Pre Security
+## Pre Security
 
-# Jr Penetrations 
+## Jr Penetrations 
 
-# Defensive Security
+## Defensive Security
 
 ## Level 1 - Intro 
 - [X] OpenVPN https://tryhackme.com/room/openvpn
@@ -166,14 +166,14 @@ Complete Beginner introduction
 
 <img src="https://www.hackthebox.com/images/landingv3/OG_Generic.jpg" width="400"/>
 
-# Throwback
+## Throwback
 - [ ] https://tryhackme.com/network/throwback
 
-# Holo
+## Holo
 - [ ] https://tryhackme.com/room/hololive
 
 
-# Wreath
+## Wreath
 - [ ] https://tryhackme.com/room/wreath
 
 
@@ -217,7 +217,7 @@ https://app.hackthebox.com/profile/853773
 - [ ] Valentie
 - [ ] Chaos
 
-And the currently active ones:
+## Machines (Currently active ones)
 
 - [ ] Heist
 - [ ] Writeup
@@ -226,6 +226,7 @@ And the currently active ones:
 - [ ] Swagshop
 
 
-Other resources
+
+# Other resources
 
 https://github.com/chryzsh/practical-hacking
