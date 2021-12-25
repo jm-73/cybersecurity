@@ -4,7 +4,7 @@
 
 https://tryhackme.com/p/Sweboss73
 
-## Complete Biginner Path https://tryhackme.com/path-action/beginner/join
+## Complete Beginner Path https://tryhackme.com/path-action/beginner/join
 Complete Beginner introduction
 - [X] Tutorial https://tryhackme.com/room/tutorial
 - [X] Starting Out in Cyber Sec https://tryhackme.com/room/startingoutincybersec
