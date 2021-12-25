@@ -162,9 +162,7 @@ Complete Beginner introduction
 - [ ] Relevant https://tryhackme.com/room/relevant
 
 ## Other
-- [X] Adventure of Cyber 3 https://tryhackme.com/room/adventofcyber3 https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-Z5VKEUKBM0.png
-
-[Certificate](THM_AoC3.png)
+- [X] Adventure of Cyber 3 https://tryhackme.com/room/adventofcyber3 [Certificate](THM-AoC3.png)
 
 <img src="https://www.hackthebox.com/images/landingv3/OG_Generic.jpg" width="400"/>
 
