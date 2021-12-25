@@ -51,6 +51,13 @@ Basic computer Exploitation
 - [ ] Kenobi https://tryhackme.com/room/kenobi
 - [ ] Steel Mountain https://tryhackme.com/room/steelmountain
 
+
+Pre Security
+
+Jr Penetrations 
+
+Defensive Security
+
 ## Level 1 - Intro 
 - [X] OpenVPN https://tryhackme.com/room/openvpn
 - [X] Welcome https://tryhackme.com/jr/welcome
