@@ -166,6 +166,19 @@ Complete Beginner introduction
 
 <img src="https://www.hackthebox.com/images/landingv3/OG_Generic.jpg" width="400"/>
 
+# Throwback
+- [] https://tryhackme.com/network/throwback
+
+# Holo
+- [ ] https://tryhackme.com/room/hololive
+
+
+# Wreath
+- [] https://tryhackme.com/room/wreath
+
+
+
+
 # Hack The Box
 
 https://app.hackthebox.com/profile/853773
