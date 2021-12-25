@@ -85,6 +85,7 @@ Complete Beginner introduction
 - [X] Shodan.io https://tryhackme.com/room/shodan
 
 ## Level 2 - Tooling
+
 - [ ] Tmux https://tryhackme.com/room/rptmux
 - [ ] Web Scanning https://tryhackme.com/room/rpwebscanning
 - [ ] Sublist3r https://tryhackme.com/room/rpsublist3r
@@ -95,12 +96,14 @@ Complete Beginner introduction
 
 
 **More introductory CTFs**
+
 - [ ] Vulnversity - https://tryhackme.com/room/vulnversity
 - [ ] Blue - https://tryhackme.com/room/blue
 - [X] Simple CTF https://tryhackme.com/room/easyctf
 - [ ] Bounty Hacker https://tryhackme.com/room/cowboyhacker
 
 ## Level 3 - Crypto & Hashes with CTF practice
+
 - [ ] Crack the hash https://tryhackme.com/room/crackthehash
 - [ ] Agent Sudo https://tryhackme.com/room/agentsudoctf
 - [ ] The Cod Caper https://tryhackme.com/room/thecodcaper
