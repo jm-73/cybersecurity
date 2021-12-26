@@ -26,7 +26,7 @@ Complete Beginner introduction
 - [X] Web fundamentals https://tryhackme.com/room/webfundamentals
 - [X] Burpsuite https://tryhackme.com/room/rpburpsuite
 - [X] OWASP Top 10 https://tryhackme.com/room/owasptop10
-- [ ] OWASP Juice Shop https://tryhackme.com/room/owaspjuiceshop
+- [X] OWASP Juice Shop https://tryhackme.com/room/owaspjuiceshop
 - [ ] Upload Vulnerabilities https://tryhackme.com/room/uploadvulns
 - [ ] Pickle Rick https://tryhackme.com/room/picklerick
  
