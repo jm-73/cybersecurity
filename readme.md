@@ -74,7 +74,7 @@ Complete Beginner introduction
 - [X] Packet and frames https://tryhackme.com/room/packetsframes
 - [ ] Cross Site Scripting https://tryhackme.com/room/xss
 - [ ] Yara https://tryhackme.com/room/yara
-- [ ] Burp Suite: The Basics https://tryhackme.com/room/burpsuitebasics
+- [X] Burp Suite: The Basics https://tryhackme.com/room/burpsuitebasics
 - [ ] Burp Suite: Repeater https://tryhackme.com/room/burpsuiterepeater
 - [ ] Crash Course Pentesting https://tryhackme.com/room/ccpentesting
 
