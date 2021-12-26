@@ -75,7 +75,7 @@ Complete Beginner introduction
 - [ ] Cross Site Scripting https://tryhackme.com/room/xss
 - [ ] Yara https://tryhackme.com/room/yara
 - [X] Burp Suite: The Basics https://tryhackme.com/room/burpsuitebasics
-- [ ] Burp Suite: Repeater https://tryhackme.com/room/burpsuiterepeater
+- [X] Burp Suite: Repeater https://tryhackme.com/room/burpsuiterepeater
 - [ ] Crash Course Pentesting https://tryhackme.com/room/ccpentesting
 
 **Introductory CTFs to get your feet wet**
