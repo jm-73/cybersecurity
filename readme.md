@@ -76,7 +76,7 @@ Complete Beginner introduction
 - [ ] Yara https://tryhackme.com/room/yara
 - [X] Burp Suite: The Basics https://tryhackme.com/room/burpsuitebasics
 - [X] Burp Suite: Repeater https://tryhackme.com/room/burpsuiterepeater
-- [ ] Crash Course Pentesting https://tryhackme.com/room/ccpentesting
+- [X] Crash Course Pentesting https://tryhackme.com/room/ccpentesting
 
 **Introductory CTFs to get your feet wet**
 
