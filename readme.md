@@ -44,7 +44,7 @@ Complete Beginner introduction
 - [ ] Blue https://tryhackme.com/room/blue
 
 ### Shells and privilege escalation
-- [ ] What the Shell? https://tryhackme.com/room/introtoshells
+- [X] What the Shell? https://tryhackme.com/room/introtoshells
 - [ ] Common Linux Privesc https://tryhackme.com/room/commonlinuxprivesc
 - [ ] Linux PrivEsc https://tryhackme.com/room/linuxprivesc
 
