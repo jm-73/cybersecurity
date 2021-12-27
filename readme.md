@@ -39,7 +39,7 @@ Complete Beginner introduction
 - [X] Windows Fundamentals 1 https://tryhackme.com/room/windowsfundamentals1xbx
 - [X] Windows Fundamentals 2 https://tryhackme.com/room/windowsfundamentals2x0x
 - [ ] Intro to Windows https://tryhackme.com/room/intro2windows
-- [ ] Active Dricetory Basics https://tryhackme.com/room/activedirectorybasics
+- [ ] Active Directory Basics https://tryhackme.com/room/activedirectorybasics
 - [ ] Metasploit https://tryhackme.com/room/rpmetasploit
 - [ ] Blue https://tryhackme.com/room/blue
 
