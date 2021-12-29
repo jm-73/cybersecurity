@@ -27,8 +27,8 @@ Complete Beginner introduction
 - [X] Burpsuite https://tryhackme.com/room/rpburpsuite
 - [X] OWASP Top 10 https://tryhackme.com/room/owasptop10
 - [X] OWASP Juice Shop https://tryhackme.com/room/owaspjuiceshop
-- [ ] Upload Vulnerabilities https://tryhackme.com/room/uploadvulns
-- [ ] Pickle Rick https://tryhackme.com/room/picklerick
+- [X] Upload Vulnerabilities https://tryhackme.com/room/uploadvulns
+- [X] Pickle Rick https://tryhackme.com/room/picklerick
  
 ### Cryptography
 - [ ] Hashing - Crypto 101 https://tryhackme.com/room/hashingcrypto101
